@@ -184,7 +184,6 @@
       <canvas id="resultChart"></canvas>
     </div>
     <p id="analysis-text"></p>
-    <a href="../site-desafio/index.html" class="btn-desafio">👉 Ir para o Desafio de 30 Dias</a>
   </div>
 
   <script>
